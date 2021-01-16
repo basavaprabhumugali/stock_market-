@@ -1,0 +1,65 @@
+                       CHAPTER |
+        A Simple Economy
+
+- Every resource is limitedly produced , if any resource is in big demand or large need then other resources production
+  is to be allocated to need resources
+- every society has to face scarcity of resources and it is the scarcity of resources that gives rise to the problem of choice. 
+-  production possibility set ->>   The collection of all possible combinations of the goods and services that can be produced from a given amount of resources and a given stock of technological knowledge is called the production possibility set of the economy.
+
+Problems Faced By Economy
+- one of the central problems of the economy is to choose from one of the many production possibilities
+- 
+
+Types of economy
+
+i- The centrally Planned Economy    ex- china
+  ->> Here govt. plans everything 
+
+ii- Market Economy    ex- USA
+   ->> Depending on market conditions , Market decides what to do
+     - If some goods are in more demand then they are produced more 
+
+
+Microeconomics and Macroeconomics
+
+i-  In microeconomics, we study the behaviour of individual economic agents in the markets for different goods and services
+ and try to figure out how prices and quantities of goods and services are determined through the interaction of individuals in these markets. 
+
+ii-  In macroeconomics, on the other hand, we try to get an understanding of the economy as a whole by focusing our attention on
+     aggregate measures such as total output, employment and aggregate price level.   
+ 
+
+
+
+Book - Content
+
+Chapter     Topics
+ii-   We shall study the consumer’s behaviour.
+iii-  We deals with basic ideas of production and cost.
+iv-   We study the producer’s behaviour.
+v-    We shall study how price and quantity is determined in a perfectly competitive market for a commodity.
+vi-   Studies some other forms of market.
+
+Here we will see how whole market is managing .
+
+
+
+
+Chapter 2
+
+- Utility (satisfaction)  and commodity (items)
+- 
+
+Cardinal Utility Analysis
+- There is a negative relationship between price of a commodity and quantity demanded which is referred to as the Law of Demand. 
+- The law of diminishing marginal utility states that each successive unit of a commodity provides lower marginal utility.
+- Therefore the individual will not be willing to pay as much for each additional unit and this results in a downward sloping
+  demand curve. At a price of Rs. 40 per unit x, individual’s demand for x was 5 units. The 6th unit of commodity x will be 
+  worth less than the 5th unit. The individual will be willing to buy the 6th unit only when the price drops below Rs. 40 per
+  unit. Hence, the law of diminishing marginal utility explains why demand curves have a negative slope.
+- 
+
+Ordinal Utility Analysis
+- A consumer’s preferences over the set of available bundles can often be represented diagrammatically.
+- The amount of mangoes that the consumer has to forego, in order to get an additional banana, her total utility level being the same, is called marginal rate of substitution (MRS).
+- 
